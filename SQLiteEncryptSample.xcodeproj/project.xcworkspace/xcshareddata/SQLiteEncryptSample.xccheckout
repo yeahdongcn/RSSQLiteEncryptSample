@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E7A180C1-E28C-4FA0-9998-F19A66C3C6AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SQLiteEncryptSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FBA5592A-0CE6-469F-B970-CDE9DA3C2040</key>
+		<string>https://github.com/yeahdongcn/BmobWrapper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SQLiteEncryptSample/SQLiteEncryptSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FBA5592A-0CE6-469F-B970-CDE9DA3C2040</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yeahdongcn/BmobWrapper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FBA5592A-0CE6-469F-B970-CDE9DA3C2040</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBA5592A-0CE6-469F-B970-CDE9DA3C2040</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BmobWrapper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
